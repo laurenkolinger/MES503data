@@ -1,5 +1,5 @@
 program,site,year,month,replicate,replicatetype,sppname,commonname,trophicgroup,counts
-TCRMP,Black Point,2014,9,1,transect,Stegastes leucostictus,beaugregory,herb,5
+TCRMP,Black Point,2014,9,1,transect,Stegastes leucostictus,beaugregory,herb,NA
 TCRMP,Black Point,2014,9,1,transect,Hypoplectrus nigricans,black hamlet,inv,1
 TCRMP,Black Point,2014,9,1,transect,Acanthurus coeruleus,blue tang,herb,7
 TCRMP,Black Point,2014,9,1,transect,Thalassoma bifasciatum,bluehead wrasse,plank,21
