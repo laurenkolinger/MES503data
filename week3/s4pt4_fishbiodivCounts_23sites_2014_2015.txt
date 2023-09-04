@@ -45,9 +45,9 @@ Unique Values:
 column: year
 description: survey year
 Data Type: integer
-Mean: 2012.12046835195
-Min: 2003
-Max: 2018
+Mean: 2014.5
+Min: 2014
+Max: 2015
 
 column: month
 description: survey month
