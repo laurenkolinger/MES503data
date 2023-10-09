@@ -1,0 +1,25 @@
+sample,numberofpredators,nutritionalsource,growthrate
+1,0,Algae A,6
+2,0,Algae A,7
+3,0,Algae A,9
+4,0,Algae A,5
+5,1,Algae A,7
+6,1,Algae A,10
+7,1,Algae A,12
+8,1,Algae A,13
+9,3,Algae A,10
+10,3,Algae A,11
+11,3,Algae A,12
+12,3,Algae A,15
+13,0,Algae B,10
+14,0,Algae B,8
+15,0,Algae B,7
+16,0,Algae B,5
+17,1,Algae B,12
+18,1,Algae B,7
+19,1,Algae B,10
+20,1,Algae B,14
+21,3,Algae B,15
+22,3,Algae B,11
+23,3,Algae B,15
+24,3,Algae B,11
