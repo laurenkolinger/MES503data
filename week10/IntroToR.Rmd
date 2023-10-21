@@ -1,0 +1,256 @@
+---
+title: "Lab 3- Intro to R and R Studio"
+author: "Sonora Meiling"
+date: "Created for MES 503 Fall 2022 8/4/2022"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+For this lab we will be going over the basics of Rstudio which is the program we will use for statistical analyses for the rest of the year.
+
+### Getting to know RStudio
+
+It's a good idea to always stay organized. You can quickly generate a lot of code and fill up your workspace, and if you're not keeping things straight it's easy to lose track.
+
+-   First, open up RStudio (assuming you're reading this in the html file, not the Rmd file) and create a project by clicking on the blue cube with the "R" and green plus sign (found in the upper left hand corner)
+
+-   Name it appropriately (for example, "Lab3- Intro to R"), and save it in a known directory (for example, "My Documents/Stats")
+
+Take a minute to investigate the windows in RStudio. On the upper right are the workspace and history windows. The workspace (Environment) stores your objects and datasets. The history window is pretty straightforward, and records the commands you run.
+
+On the lower right there are tabs to find files on your computer, view plots that we generate, check what packages you have installed and turned on, look up help information for functions, and view html files.
+
+On the lower left is your console, when you start RStudio it will display text letting you know what version of R you are running. This window is where you can type commands, outputs of commands will apear, and error messages will appear.
+
+In the top left is where R Markdown (Rmd) files will appear.
+
+I'd like you now to open the Rmd file I posted to blackboard (navigate to it in the "Files" tab of the lower right pane and click on it, or click on it in your browers).
+
+In the bottom left hand corner of the Rmd panel you will see a little orange "#" follwed by some text. If you click on this it will bring up a table of contents for the Rmd file which you can scroll through and use to easily navigate to different sections of the document. This is extremely helpful when you want to quickly refer back to your code. If you scroll about 1/2 way down you'll start to see "chunk"s, these are code chunks which we'll discuss in more detail later.
+
+### Notetaking
+
+For notes during class, I would recommend creating a dupilcate of the R Markdown file with some naming convention that makes sense to you (e.g. Lab3-Intro to R with notes). In this new file, I recommend taking notes on what functions do, what different arguments do and why they were included, anything I say that isn't already included in the file that helps you remember how to do these analyses and make these figures again in a year.
+
+### Formating your RStudio
+
+First, let's format our RStudio a bit. At the top tool bar, unter the "Tools" tab select "Global Options." A pop-up window should appear. On the lefthand side there is a tool bar, select "R Markdown." The 5th option down should say "Show output preview in" and have a dropdown menu. From this menu, select "Viewer Pane"
+
+If you want your panes to look the same as mine (notice, you likely have your console in the bottom left corner, and I have it in the top right corner) you can adjust them in Tools>Global Options>Pane Layout with the drop down menus.
+
+I would also recommend enabling soft wrap. To do this go to Tools>Global Options>Code and check the box that says "Soft Wrap R Source Files" (should be the 6th box down)
+
+Next, click on the gear icon in the top left and choose "chunk output in console"
+
+### R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents in RStudeio. For more details on using R Markdown see <http://rmarkdown.rstudio.com> or [this cheatsheet](https://github.com/rstudio/cheatsheets/raw/main/rmarkdown-2.0.pdf) or [this great youtube video](https://www.youtube.com/watch?v=K418swtFnik&t=949s) . This document can be visualized as an html file, Rmd file in RStudio (I will upload both to blackboard), PDF, or MS Word document. If you want to view the labs as PDF or word docs you will have to export or "knit" the Rmd file in Rstudio to the desired format. To do this, open the Rmd file and select the drop down menu next to the "knit" button at the top left of the Rmd file, here you can select whatever file format you prefer.
+
+For assignments, exams, and potentially your future publications you will be asked to submit R Markdown files so let's explore how to make them.
+
+#### R Markdown Aesthetics
+
+All normal text can be written as seen here. If you want to make headers (these are what will be listed in the table of contents section) you can add \# in front to control the size/how they are nested. For example:
+
+# Header 1
+
+## Header 2
+
+### Header 3
+
+#### Header 4 (this is the first subheader)
+
+##### Header 5 (this is the second subheader)
+
+To view the changes to the html file, you can hit the "knit" button on the Rmd file or Ctrl+Shift+K
+
+To italicize text use 1 asterik before and after what text you would like to format *For example this text will be italicized*
+
+To bold text use 2 asterisks before and after what text you would like to format **For example this text will be bolded**
+
+If you want the text both italicized and bolded, use 3 asterisks before and after the text ***For example this text will be italicized and bolded***
+
+So far everthing we have seen has been plain text, but for statistics we will be doing a lot of coding with R as well. Lines of code we want run in R will be highlighted grey in the Rmd file and in a grey box in the html file. In the html file, the top right corner of the grey box will have an icon to quickly copy all of the text in that coding block. If you are referencing these html files later, or look up code online, this code is what you will need to paste into your Rmd file.
+
+### Intro to R
+
+R is basically a calculator, however, over time the R language has been developed to provide a fairly natural way to access, organize and describe data; even very complex data. Give it a shot, do some computations (notice the difference in the formatting in the Rmd file). To run the commands, click on the line you would like to run and either click "Run" in the top right of the Rmd file, or Ctrl+Enter. Notice, after running the line the output will display in your console.
+
+```{r}
+5 + 11
+1.2 * 47
+3^4
+```
+
+If you "Knit" the Rmd file it will pull up the html file in your "Viewer" tab. Notice how each line of code is in a grey box and the output of each line is in a white box immediately underneath. This is one of the main advantages of R Markdown, you are able to see all of your notes, code, outputs, and plots in one place.
+
+R can also handle logical arguments. Try something like these:
+
+```{r}
+5 > 2
+2 > 5
+5 == 2    
+```
+
+Note, the double "==" is a logical argument (as opposed to a single "=", which is a definition)
+
+Unlike simple calculators, you can create and store variables in R. To do this you can use "=", "->", "\<-"
+
+```{r}
+x = 500
+```
+
+Here we are using the single "=" to define the variable "x" as 500. From now on when you type "x" or use "x" in RStudio it will be using the value 500. Notice that you now have a variable "x" stored in your Environment as a value.
+
+The value of x can be easily overwritten. Keep this in mind!
+
+```{r}
+x <- 5000
+```
+
+Now that x is a stored variable, we can use it for algebraic expressions:
+
+```{r}
+x + 10
+x * 5
+x^x
+```
+
+You can imagine that we can create any number of variables. For example:
+
+```{r}
+y = x * 5
+```
+
+It's important to be aware that y does not remain dependent on the value of x. If you change the value of x, you must re-run the above command to update the value of y.
+
+Let's see what happens when we plot our data
+
+```{r}
+plot(x, y)
+```
+
+Plot() is different from a variable. Plot is a function. Notice the ( ). Here we are using the plot() function to display our data in the Plots pane. Go ahead, try looking up the plot function in the Help pane to see how to use it. Notice the "Arguments" sections, this tells you what the function needs to opperate and what you can add to modify the function to fit your desired output.
+
+You should do this with any new function you come across. Remeber the internet is also a great resource in finding out information on how to use functions in R.
+
+In addition to making variables it is important to know how to get rid of them. To clear the console if it is too cluttered use cntrl+L. To remove a variable from your workspace you need to use the rm() function
+
+```{r}
+rm(x)
+```
+
+Now the objet "x" has been removed from our environment.
+
+If you want to include notes within your commands, you have to use the "#" to tell R that it is a note and not a command to run (note that the notes will turn green).
+
+```{r}
+x <- 500 #this is how we assign the object x the value of 500
+```
+
+### Data Types in R
+
+R has a wide variety of data types including scalars, vectors (numerical, character, logical), matrices, data frames, and lists.
+
+#### Simple Data Types
+
+-   Numeric: This is an decimal or value, and is the default data type.
+-   Integer: This is a non-decimal, whole number
+
+There are also classes of variables (numeric, character, integer, imaginary, factor, etc.). For some functions, the class of the object may inhibit the function from running. To determine the class of an object, use the class() function.
+
+```{r}
+class(x)
+```
+
+#### Complex Data Types
+
+-   Vector: a sequence of data elements of the same type. Individual values in a vector are called elements.
+-   Matrix: a collection of data elements of the same type arranged in a two-dimensional rectangular layout.
+-   List: a generic vector containing other objects e.g. vectors, and can contain different data types.
+-   Data Frame: a list of vectors of equal length, that can be of different type.
+
+##### Vectors
+
+A sequence of data elements of the same type. Individual values in a vector are called elements.Vectors contain a set of numbers, characters or logical arguments. Below we will create 3 different vectors - a,b and carrot.
+
+```{r vectors}
+#####vector a #####
+a <- c(1, 2, 5.3, 6, -2, 4)  # numeric vector
+
+#####vector b #####
+b <- c("one", "two", "three")  # character vector
+carrot <- c(TRUE, TRUE, TRUE, FALSE, TRUE, FALSE)  # logical vector
+```
+
+Each member of a vector is called an element. Vector "a" has 6 elements, vector "b" has 3 elements, and vector "carrot" has 6 elements.
+
+You can refer to specific elements using subscripts. For example:
+
+```{r}
+a[6] # Returns the 6th element of vector a
+a[c(2,4)] # Returns the 2nd and 4th elements of vector a. The c stands for "combine"
+```
+
+You can apply functions and operations to an entire vector. For example, below we will create a vector x and a vector y:
+
+```{r}
+x <- c(3, 7, 19, 4, 34, 11)
+y <- x * 2
+plot(x, y)
+```
+
+##### Matrix
+
+A collection of data elements of the same type arranged in a two-dimensional rectangular layout. Below we will create a 2 x 3 matrix (2 rows & 3 columns)
+
+```{r matrix}
+A = matrix(c(2, 4, 3, 1, 5, 7),nrow=2,ncol=3,byrow = TRUE)
+A # print the matrix
+```
+
+##### List
+
+A generic vector containing other objects e.g. vectors, and can contain different data types. For example, the following variable "x" is a list containing copies of three vectors "n", "s", "b", and a numeric value 3.
+
+```{r list}
+n = c(2, 3, 5)
+s = c("aa", "bb", "cc", "dd", "ee")
+b = c(TRUE, FALSE, TRUE, FALSE, FALSE)
+x = list(n, s, b, 3) # x contains copies of n, s, b
+```
+
+##### Data Frame
+
+A list of vectors of equal length, that can be of different type. For example, we will use a dataframe already built in to R to explore(The mtcars data frame)
+
+```{r}
+View(mtcars)
+```
+
+The top line of the table, called the header, contains the column names. Each horizontal line afterward denotes a data row, which begins with the name of the row, and then followed by the actual data. Each data member of a row is called a cell.To retrieve data in a cell, we would enter its row and column coordinates in the single square bracket "\[\]" operator. The two coordinates are separated by a comma. In other words, the coordinates begins with row position, then followed by a comma, and ends with the column position. The order is important.
+
+We can use the row and column names instead of the numeric coordinates.
+
+```{r}
+mtcars["Mazda RX4", "cyl"] #This command asks what the cell reads in the row "Mazda Rx4" column "cyl"
+```
+
+There are many ways to explore data frames that we will go into more depth as we begin analyses on other data sets
+
+To insert a code block you can either manually type the formatting or use the green square with the c and plus sign at the top right of the .Rmd file
+
+```{r}
+
+```
+
+### Opening an external data frame in RStudio
+
+Typically, we won't be working with data frames that are already uploaded to R. Most often, we will have an excel file with data we wish to analyze.
+
+There are many ways to open a file in RStudio.
+
+1.  Navigate to the file in the "Files" Tab of the bottom right pane, click on it, and select "import dataset." A pop-up window will appear with a lot of differnet options. In the bottom left you can name the dataset as you wish in the "Name" box. Alternatively, in the lower right hand corner there is abox labeled "code preview" that shows you what code is going to be run to import the file. The second line of this code can be edited (in front of the arrow) to also rename the dataset. Once you have adjusted the settings as you see fit click the "Import" button
+
+2.  For this class I will often provide .csv files so the function read.csv() can be used to import files
