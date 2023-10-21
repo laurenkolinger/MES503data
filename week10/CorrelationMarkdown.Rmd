@@ -1,0 +1,199 @@
+---
+title: "week 10 - Correlation Analysis"
+author: "YOUR NAME HERE"
+date: "10/24/2022"
+output: html_document
+---
+
+### instructions:
+
+Uncomment (remove hashtags), and modify code within the code chunks to run as instructed to conduct the correlation analysis. Answer all questions outside of the code chunks that are *surrounded by asterisks* (these will show up as italicised text in the visual editor and in your eventual output).
+
+### setup
+
+define your working directory and load your libraries (the yaml heading above will function as your heading).
+
+```{r}
+# setwd(PATH)
+
+# library(LIBRARYYOUNEED1)
+```
+
+# Example 1: Relationship Between Crab Gill and Body Weight
+
+In an effort to understand how food preferences affect growth in the intertidal crab species Pachygrapsus crassipes, researchers collected samples of 12 crabs from 5 different tidal flats populated with different species of bivalves. In addition to measuring body weight (g) of the crabs researchers also measured a variety of other measurements on the crabs, including gill weight (mg). One tidal flat was fully submerged and had a large amount of variability in the crab body weight. The researchers then wanted to know if any of the other measures they took relate to fitness in the crabs and hence body weight for this flat. You will perform a correlation analysis on gill weight to determine if there is a relationship between the two, affecting their study.
+
+------------------------------------------------------------------------
+
+import the data:
+
+```{r}
+# crabs <- read.csv("https://raw.githubusercontent.com/laurenkolinger/MES503data/main/week10/Crabdata.csv")
+# head(crabs)
+```
+
+*1 Describe the data:*
+
+*2 What are the independent and dependent variables?*
+
+*3 What is the statistical null hypotheses for the correlation analysis?*
+
+------------------------------------------------------------------------
+
+plot the data:
+
+```{r}
+# crabs_plot <-
+#   ggplot() + geom_point(aes(x = Body.weight, y = Gill.weight), data = crabs) +
+#   ylab("Gill Weight (mg)") +
+#   xlab("Body Weight (g)") +
+#   ggtitle("Comparison of Gill Weight by Body Weight in the Lined Shore Crab") +
+#   ylim(c(1, 400))
+# crabs_plot
+```
+
+*4 Do the data look approximately linear?*
+
+---
+
+test bivariate normality statistically:
+
+```{r}
+# shapiro.test(crabs$Gill.weight)
+```
+
+*5 Is this variable normally distributed?* If not, try a log or square root transform, otherwise use a correlation test other than pearson
+
+```{r}
+# shapiro.test(crabs$Body.weight)
+```
+
+*6 Is this variable normally distributed?* If not, try a log or square root transform, otherwise use a correlation test other than pearson
+
+---
+
+conduct the correlation analysis:
+
+```{r}
+# cor.test(crabs$Body.weight,crabs$Gill.weight, method="pearson")
+```
+
+*7 What are the results? Is there a relationship between crab gill weight and body weight? If so, in what direction? How strong is the relationship? (report both Pearson's r and p)*
+
+---
+
+# Example 2: Relationship Between Parent and Child Height
+
+In this example, researchers want to investigate if there is a relationship between parent and child height.
+
+---
+
+import the data:
+
+```{r}
+# height <- read.csv("https://raw.githubusercontent.com/laurenkolinger/MES503data/main/week10/Heights.csv")
+# head(height)
+```
+
+*8 Describe the data*
+
+---
+
+Plot the data, use a scatter plot
+
+```{r}
+#height_plot <- 
+```
+
+*9 Do the data look approximately linear?*
+
+---
+
+test bivariate normality statistically:
+
+```{r}
+# shapiro.test()
+```
+
+*10 Is this variable normally distributed?* If not, try a log or square root transform, otherwise use a correlation test other than pearson
+
+```{r}
+# shapiro.test()
+```
+
+*11 Is this variable normally distributed?* If not, try a log or square root transform, otherwise use a correlation test other than pearson
+
+---
+
+based on the distribution of your variables, and whether transformation worked, set this variable `methodCorrelation` to either `"pearson"` or `"spearman"`.
+
+```{r}
+# methodCorrelation <- 
+```
+
+---
+
+conduct the correlation analysis 
+
+note that method is set to `methodCorrelation` that you just chose.
+
+```{r}
+# cor.test(, method = methodCorrelation)
+```
+
+*12 what are the results? Is there a relationship between parent and child height? If so, in what direction? How strong is the relationship? (report both r and p)*
+
+---
+
+For these two examples we only had 1 correlation test to run, but sometimes you may collect multiple covariates that you wish to test so it becomes tedious to run each individual test one at a time. Instead of using cor.test(), in these cases, you can use rcorr() as seen below
+
+---
+
+import the data
+
+```{r}
+# height_extended <- read.csv("https://raw.githubusercontent.com/laurenkolinger/MES503data/main/week10/Heights_extended.csv")
+# head(height_extended)
+```
+
+*13 Describe the data*
+
+---
+
+plot the data
+
+Instead of plotting each pairwise comparison of variables to see if they have a linear relationship we can use the pairs() function to make them all at once
+
+```{r}
+# pairs(height_extended)
+```
+
+*14 Which variables look linearly related? Which variables do not look linearly related?*
+
+---
+
+now we need to load the libaries for running `rcorr()`. so here we install and load `Hmisc` (normally this is done at the beginning of the script, but I wanted you to see the context of this library and where we use it. Feel free to move to top of script, or not)
+
+```{r}
+# install.packages("Hmisc") 
+library(Hmisc)
+```
+
+---
+
+Now conduct the correlation analyis using `Hmisc::rcorr()`
+
+note that method is set to `methodCorrelation` that you defined in the previous section
+
+this allows you to run correlations all at once (easier than `cor.test()` if have multiple correlation tests to run because you don't have to run ttest on every pair of variables, spits out matrix with p-values)
+
+```{r}
+# rcorr(as.matrix(height_extended), type= methodCorrelation)
+```
+
+*15 What are the results? What variables is/are parent height most correlated with? What about child height? (report both correlation coeficcient and p value)*
+
+
+### credit:
+
+credit for this exercise goes to Sonora Meiling (Fall 2022), and this was updated lightly by Lauren Olinger (Fall 2023)
