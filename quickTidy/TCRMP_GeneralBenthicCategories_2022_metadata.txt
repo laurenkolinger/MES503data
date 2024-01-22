@@ -1,0 +1,181 @@
+Title: percent cover of general benthic categories in each transect in 2022
+
+FILE CONTENTS AND INFORMATION
+------------------------
+Description: transect-level Benthic Cover of categories coral, gorg, sponge, bleaching, disease
+Source: TCRMP dataset  - modified for MES504
+Original file name: TCRMP_coverGeneralBenthicCategories_allSites_2001_2022_data.csv
+Author: LO processed from original file
+Date created: 22 Jan 2024
+Date last modified: 22 Jan 2024
+Format: csv
+
+COLUMN DEFINITIONS
+------------------------
+Column name: SampleYear
+Description: Monitoring period in which data was collected; Note - Sample year may not always match the year from the FilmDate if a location was surveyed late in the annual monitoring period (i.e. data collected in January 2018 could be included in the 2017 annual monitoring period)
+Data type: integer
+Units: YYYY
+Valid values: 2022
+
+Column name: SampleMonth
+Description: Month in which data was collected; Note - when a location was not surveyed fully in the same month, the month in which sampling began is used as the sample month
+Data type: integer
+Units: MM
+Valid values: 9, 10
+
+Column name: Period
+Description: Refers to the sample period in which the data falls; Periods are as follows: 
+Data type: string
+Units: nominal
+Valid values: Annual (normal annual TCRMP sampling), 
+
+Column name: Location
+Description: Monitoring location at which data was collected
+Data type: string
+Units: nominal
+Valid values:Fish Bay	Magens Bay	Seahorse Cottage Shoal	Savana  Flat Cay, St James  St. James 
+
+Column name: FilmDate
+Description: Date on which transects were filmed
+Data type: date
+Units: M/DD/YY
+Valid values: 9/8/22-10/12/22
+
+Column name: Transect
+Description: Transect number
+Data type: integer
+Units: nominal
+Valid values: 1-6 
+
+Column name: CoralCov
+Description: Summed Percent cover of Coral Category:
+  AA	  Agaricia agaricites
+  AC	  Acropora cervicornis
+  AF	  Agaricia fragilis
+  AG	  Agaricia grahamae
+  AGSP	Agaricia spp.
+  AH	  Agaricia humilis
+  AL	  Agaricia lamarcki
+  AP	  Acropora palmata
+  APR	  Acropora prolifera
+  AT	  Agaricia tenuifolia
+  AU	  Agaricia undata
+  CN	  Colpophyllia natans
+  CORAL Coral spp.
+  CORJU	Juvenile coral spp.
+  DCY	  Dendrogyra cylindrus
+  DL	  Diploria labyrinthiformis
+  DSO	  Dichocoenia stokesii
+  EF	  Eusmilia fastigiata
+  FF	  Favia fragum
+  HC	  Helioseris cucullata
+  IR	  Isopyhyllastrea rigida
+  IS	  Isophyllia sinuosa
+  MAFO	Madracis formosa
+  MAL	  Mycetophyllia aliciae
+  MAN	  Mussa angulosa
+  MAR	  Manicina areolata
+  MC	  Montastraea cavernosa
+  MD	  Madracis decactis
+  MDA	  Mycetophyllia daniana
+  MF	  Mycetophyllia ferox
+  MILA	Millepora alcicornis
+  MILC	Millepora complanata
+  MILS	Millepora squarrosa
+  ML	  Mycetophyllia lamarckiana
+  MM	  Madracis mirabilis
+  MME	  Meandrina meandrites
+  MSPP  Montastraea spp.
+  MYSP	Mycetophyllia spp.
+  OA	  Orbicella annularis
+  OD	  Oculina diffusa
+  OFAV	Orbicella faveolata
+  OFRA	Orbicella franksii
+  OX	  Orbicella species complex
+  PA	  Porites astreoides
+  PB	  Porites branneri
+  PBSP	Branching Porites spp.
+  PCL	  Pseudodiploria clivosa
+  PD	  Porites divaricata
+  PF	  Porites furcata
+  PP	  Porites porites
+  PS	  Pseudodiploria strigosa
+  SB	  Solenastrea bournoni
+  SC	  Scolymia cubensis
+  SCSP	Scolymia spp.
+  SH	  Solenastrea hyades
+  SI	  Stephanocoenia intercepta
+  SL	  Scolymia lacera
+  SR	  Siderastrea radians
+  SS	  Siderastrea siderea
+  SSPP	Siderastrea spp.
+  TC	  Tubastraea coccinea
+Data type: float
+Units: Percent
+Valid values: 0-100
+Missing values: NA
+
+Column name: GorgCov
+Description: Summed Percent cover of Gorgonian Category: 
+  BRIA	Briareum asbestinum
+  ENGO	Encrusting Gorgonian
+  ERYTH	Erythropodium caribaeorum
+  FAN	  Sea fan
+  GO	  Gorgonian
+  PLUME	Sea plume
+  ROD	  Sea rod
+  WHIP	Sea whip
+Data type: float
+Units: Percent
+Valid values: 0-100
+Missing values: NA
+
+
+Column name: SpoCov
+Description: Summed Percent cover of Sponge Category:
+  BALL Tube sponge
+  BASP Sponge
+  BOSP Encrusting sponge
+  CLIO Rope sponge
+  CLSP Cliona spp.
+  ENSP Clionia delitrix
+  ROPE Boring sponge
+  SPO  Ball sponge
+  TUBE Barrel/Vase sponge
+Data type: float
+Units: Percent
+Valid values: 0-100
+Missing values: NA
+
+Column name: BLCov
+Description: Summed Percent cover of Bleached coral group
+Data type: float
+Units: Percent
+Valid values: 0-100
+	
+Column name: DisCov
+Description: Summed Percent cover of Diseased coral category
+Data type: float
+Units: Percent
+Valid values: 0-100
+
+ADDITIONAL INFORMATION & REMARKS
+------------------------
+- Benthic transects are the same ones on which coral health metrics are recorded. Each is 10m in length and there are typically 6 per site though additional transects may have been recorded. All transects are filmed on the left side and videos are clipped into consecutive non-overlapping still images for analysis
+- Coral Point Count with Excel Extensions (CPCe) software (see Kohler and Gill 2006) was used for analysis through 2018 after which random point assignment was done using R Studio
+- The number of points per image has varied throughout the course of the monitoring program dependent on the camera system used: 10 (2001 - 2011), 15 (2012 - 2013), and 20 (2014 - pres)
+- Rhodolith (RO) was added as a benthic cover category in 2011
+- Peyssonnelia sp (PEY) was added as a benthic cover category in 2014
+- Ramicrusta sp (RAMI) was added as a benthic cover category in 2017
+- Data in red indicates that values were unable to be verified during QAQC because the original analysis file was missing or had been corrupted
+- Stony Coral Tissue Loss Disease (SCTLD) was added as a coral condition category after its arrival in the US Virgin Islands in 2019
+- Cells containing "ND" indicate that there is no data recorded for that benthic category
+
+METADATA FILE INFO
+------------------------
+Date created: 9 May 2023
+Author: LO
+Date last modified: 22 Jan 2024 
+Last modified by: LO
+
