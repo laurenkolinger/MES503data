@@ -34,7 +34,7 @@ Column name: Location
 Description: Monitoring location at which data was collected
 Data type: string
 Units: nominal
-Valid values:Fish Bay	Magens Bay	Seahorse Cottage Shoal	Savana  Flat Cay, St James  St. James 
+Valid values:FishBay	MagensBay	SeahorseCottageShoal	Savana  FlatCay StJames
 
 Column name: FilmDate
 Description: Date on which transects were filmed
