@@ -1,0 +1,47 @@
+CountryName,ReefZone,SiteName,Acropora spp,Agaricia agaricites,Diploria strigosa,Montastraea annularis,Montastraea cavernosa,Porites astreoides,Siderastrea siderea
+Bahamas,CREST,Anchor - 3m,0.56,0.07,0.01,0.17,0.03,0.09,0.07
+Bahamas,CREST,AUTEC 2 South (S16),0.41,0.02,0.01,0.15,0,0.22,0.19
+Bahamas,CREST,AUTEC 3 (S19),0.54,0.06,0.01,0.18,0.03,0.14,0.04
+Bahamas,CREST,Big Wood (S18),0.36,0.02,0.06,0.2,0.02,0.11,0.23
+Bahamas,CREST,China Point (S10),0.53,0.02,0.08,0.02,0,0.31,0.04
+Bahamas,CREST,Coconut Point (S4),0.13,0.01,0.08,0.49,0.04,0.19,0.06
+Bahamas,CREST,Congo Town (S23),0.35,0.04,0.05,0.13,0.02,0.24,0.17
+Bahamas,CREST,Delta (S27),0.46,0.06,0,0.01,0.02,0.26,0.19
+Bahamas,CREST,"Gaulin's Reef A, backreef",0.48,0.04,0.04,0.12,0.03,0.16,0.13
+Bahamas,CREST,"Gaulin's Reef B, backreef",0.45,0.06,0.03,0.1,0.01,0.12,0.23
+Bahamas,CREST,"Gaulin's Reef C, backreef",0.25,0.04,0.09,0.36,0,0.26,0
+Bahamas,CREST,Golding (S2),0.43,0.01,0.01,0.21,0.02,0.22,0.1
+Bahamas,CREST,Long Bay Cay (S24),0.55,0.01,0.08,0.18,0.02,0.11,0.05
+Bahamas,CREST,Mahore (S5),0.4,0.03,0.05,0.21,0.01,0.18,0.12
+Bahamas,CREST,Mangrove Central (S21),0.3,0.1,0.09,0.21,0.05,0.12,0.13
+Bahamas,CREST,Mangrove South (S22),0.62,0.03,0.07,0.01,0.02,0.09,0.16
+Bahamas,CREST,Middle Bight (S20),0.3,0.02,0.02,0.22,0.02,0.24,0.18
+Bahamas,CREST,Middle Long Rock (S14),0.64,0.03,0.1,0.01,0.03,0.19,0
+Bahamas,CREST,Morgan's Bluff (S3),0.44,0.04,0.04,0.2,0.02,0.25,0.01
+Bahamas,CREST,North Bight (S17),0.45,0.01,0.01,0.16,0.03,0.12,0.22
+Bahamas,CREST,North Grassy Creek (S26),0.5,0.03,0.01,0.17,0,0.14,0.15
+Bahamas,CREST,North Joulters (S1),0.54,0.01,0.03,0.11,0.01,0.2,0.1
+Bahamas,CREST,North Love Hill (S8),0.4,0.02,0.03,0.32,0.03,0.07,0.13
+Bahamas,CREST,North Rock (S25),0.51,0.02,0.06,0.24,0.01,0.1,0.06
+Bahamas,CREST,Sugar Rock (S15),0.54,0.03,0.01,0.26,0.01,0.11,0.04
+Bahamas,FORE,AUTEC 2 (D18),0.1,0.04,0.04,0.69,0.02,0.08,0.03
+Bahamas,FORE,AUTEC 2 South (D19),0.06,0.13,0.05,0.6,0.01,0.04,0.11
+Bahamas,FORE,AUTEC 3 (D21),0.07,0.18,0,0.61,0.01,0.13,0
+Bahamas,FORE,Bristol Galley (D17),0.1,0.16,0.02,0.63,0.01,0.04,0.04
+Bahamas,FORE,Bucket (D4),0.23,0.03,0.01,0.58,0.03,0.11,0.01
+Bahamas,FORE,Coffee (D9),0.21,0.17,0.05,0.51,0.02,0.01,0.03
+Bahamas,FORE,Conch (D3),0.09,0.11,0.03,0.66,0.04,0,0.07
+Bahamas,FORE,Congo Town (D24),0.23,0.03,0.07,0.64,0,0,0.03
+Bahamas,FORE,Delta (D31),0.26,0.05,0.04,0.51,0.02,0.09,0.03
+Bahamas,FORE,"Elbow Cay, Middle",0,0.13,0.05,0.68,0.02,0.04,0.08
+Bahamas,FORE,"Elbow Cay, North",0.12,0.02,0.07,0.71,0.04,0.02,0.02
+Bahamas,FORE,"Elbow Cay, South (Inner)",0.01,0.17,0.07,0.65,0.03,0.02,0.05
+Bahamas,FORE,"Elbow Cay, South (Outer)",0.14,0.06,0.01,0.63,0.01,0.12,0.03
+Bahamas,FORE,"Fowl Cay, Fore Reef",0.2,0.12,0.02,0.58,0.02,0.04,0.02
+Bahamas,FORE,"Fowl Cay, Pinnacles",0.08,0.1,0.04,0.58,0.04,0,0.16
+Bahamas,FORE,Gaulin's Forereef #1,0.24,0.13,0.01,0.54,0,0.04,0.04
+Bahamas,PATCH,French Bay #1,0.12,0.1,0.02,0.39,0,0.05,0.32
+Bahamas,PATCH,French Bay #2,0.05,0.04,0.04,0.42,0.02,0.01,0.42
+Bahamas,PATCH,Lindsay Reef,0.05,0.1,0.01,0.41,0.02,0.07,0.34
+Bahamas,PATCH,Snapshot Reef,0.03,0.09,0.04,0.38,0.01,0.1,0.35
+Bahamas,PATCH,Telephone Pole Reef,0.13,0.03,0.01,0.42,0.01,0,0.4
