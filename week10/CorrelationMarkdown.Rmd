@@ -196,4 +196,4 @@ this allows you to run correlations all at once (easier than `cor.test()` if hav
 
 ### credit:
 
-credit for this exercise goes to Sonora Meiling (Fall 2022), and this was updated lightly by Lauren Olinger (Fall 2023)
+credit for this exercise goes to Sonora Meiling (Fall 2022), and this was updated lightly by Lauren Olinger (Fall 2023, 2024)
