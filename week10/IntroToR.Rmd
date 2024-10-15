@@ -1,11 +1,11 @@
 ---
-title: "Lab 3- Intro to R and R Studio"
-author: "Sonora Meiling"
-date: "Created for MES 503 Fall 2022 8/4/2022"
+title: "Intro to R markdown"
 output: html_document
 editor_options: 
   chunk_output_type: console
 ---
+
+*activity originally written by Sonora Meiling for MES 503 Fall 2022*
 
 For this lab we will be going over the basics of Rstudio which is the program we will use for statistical analyses for the rest of the year.
 
