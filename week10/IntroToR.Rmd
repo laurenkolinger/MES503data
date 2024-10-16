@@ -226,7 +226,7 @@ x = list(n, s, b, 3) # x contains copies of n, s, b
 A list of vectors of equal length, that can be of different type. For example, we will use a dataframe already built in to R to explore(The mtcars data frame)
 
 ```{r}
-View(mtcars)
+# View(mtcars)
 ```
 
 The top line of the table, called the header, contains the column names. Each horizontal line afterward denotes a data row, which begins with the name of the row, and then followed by the actual data. Each data member of a row is called a cell.To retrieve data in a cell, we would enter its row and column coordinates in the single square bracket "\[\]" operator. The two coordinates are separated by a comma. In other words, the coordinates begins with row position, then followed by a comma, and ends with the column position. The order is important.
