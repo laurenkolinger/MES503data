@@ -76,7 +76,7 @@ South,ADELIE,Female,4.6,Pat,2/1/24
 SOUTH,GENTOO,Female,4.3,Sam,1/18/24
 SOUTH,ADELIE,Male,4.3,Pat,1/24/24
 East,Adelie,Female,4.6,Pat,1/25/24
-North,adelie,Female,4.1,Pat,1/15/24
+North,adelie,Female,41,Pat,1/15/24
 East,adelie,Female,4.9,Alex,1/21/24
 south,Adelie,Female,4.2,Sam,1/16/24
 North,adelie,Male,4.4,Pat,2/7/24
