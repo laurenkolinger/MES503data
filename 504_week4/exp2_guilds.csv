@@ -1,421 +1,421 @@
-"","Date","Soak.Type","Seagrass","Txid","Family","JuvFish","Guild"
-"1",2016-02-18,"day","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"2",2016-02-18,"day","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"3",2016-02-18,"day","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"4",2016-02-18,"day","H. stipulacea",1,"Haemulidae",0,"Nocturnal Carnivore"
-"5",2016-02-18,"day","H. stipulacea",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"6",2016-02-18,"day","H. stipulacea",1,"Mullidae",0,"Diurnal Carnivore"
-"7",2016-02-18,"day","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"8",2016-02-18,"day","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"9",2016-02-18,"day","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"10",2016-02-18,"day","H. stipulacea",2,"Gerridae",0,"Nocturnal Carnivore"
-"11",2016-02-18,"day","H. stipulacea",2,"Haemulidae",0,"Nocturnal Carnivore"
-"12",2016-02-18,"day","H. stipulacea",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"13",2016-02-18,"day","H. stipulacea",2,"Mullidae",0,"Diurnal Carnivore"
-"14",2016-02-18,"day","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"15",2016-02-18,"day","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"16",2016-02-18,"day","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"17",2016-02-18,"day","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"18",2016-02-18,"day","H. stipulacea",3,"Haemulidae",0,"Nocturnal Carnivore"
-"19",2016-02-18,"day","H. stipulacea",3,"Lutjanidae",2,"Nocturnal Carnivore"
-"20",2016-02-18,"day","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"21",2016-02-18,"day","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"22",2016-02-18,"day","H. stipulacea",4,"Acanthuridae",0,"Herbivore"
-"23",2016-02-18,"day","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"24",2016-02-18,"day","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"25",2016-02-18,"day","H. stipulacea",4,"Haemulidae",3,"Nocturnal Carnivore"
-"26",2016-02-18,"day","H. stipulacea",4,"Lutjanidae",1,"Nocturnal Carnivore"
-"27",2016-02-18,"day","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"28",2016-02-18,"day","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"29",2016-02-18,"day","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"30",2016-02-18,"day","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"31",2016-02-18,"day","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"32",2016-02-18,"day","H. stipulacea",5,"Haemulidae",0,"Nocturnal Carnivore"
-"33",2016-02-18,"day","H. stipulacea",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"34",2016-02-18,"day","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"35",2016-02-18,"day","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"36",2016-02-18,"day","S. filiforme",1,"Acanthuridae",2,"Herbivore"
-"37",2016-02-18,"day","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"38",2016-02-18,"day","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"39",2016-02-18,"day","S. filiforme",1,"Haemulidae",0,"Nocturnal Carnivore"
-"40",2016-02-18,"day","S. filiforme",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"41",2016-02-18,"day","S. filiforme",1,"Mullidae",4,"Diurnal Carnivore"
-"42",2016-02-18,"day","S. filiforme",1,"Scaridae",0,"Herbivore"
-"43",2016-02-18,"day","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"44",2016-02-18,"day","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"45",2016-02-18,"day","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"46",2016-02-18,"day","S. filiforme",2,"Haemulidae",0,"Nocturnal Carnivore"
-"47",2016-02-18,"day","S. filiforme",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"48",2016-02-18,"day","S. filiforme",2,"Mullidae",0,"Diurnal Carnivore"
-"49",2016-02-18,"day","S. filiforme",2,"Scaridae",0,"Herbivore"
-"50",2016-02-18,"day","S. filiforme",3,"Acanthuridae",0,"Herbivore"
-"51",2016-02-18,"day","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"52",2016-02-18,"day","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"53",2016-02-18,"day","S. filiforme",3,"Haemulidae",0,"Nocturnal Carnivore"
-"54",2016-02-18,"day","S. filiforme",3,"Lutjanidae",2,"Nocturnal Carnivore"
-"55",2016-02-18,"day","S. filiforme",3,"Mullidae",0,"Diurnal Carnivore"
-"56",2016-02-18,"day","S. filiforme",3,"Scaridae",0,"Herbivore"
-"57",2016-02-18,"day","S. filiforme",4,"Acanthuridae",0,"Herbivore"
-"58",2016-02-18,"day","S. filiforme",4,"Carangidae",0,"Diurnal Carnivore"
-"59",2016-02-18,"day","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"60",2016-02-18,"day","S. filiforme",4,"Haemulidae",0,"Nocturnal Carnivore"
-"61",2016-02-18,"day","S. filiforme",4,"Lutjanidae",0,"Nocturnal Carnivore"
-"62",2016-02-18,"day","S. filiforme",4,"Mullidae",0,"Diurnal Carnivore"
-"63",2016-02-18,"day","S. filiforme",4,"Scaridae",0,"Herbivore"
-"64",2016-02-18,"day","S. filiforme",5,"Acanthuridae",0,"Herbivore"
-"65",2016-02-18,"day","S. filiforme",5,"Carangidae",0,"Diurnal Carnivore"
-"66",2016-02-18,"day","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"67",2016-02-18,"day","S. filiforme",5,"Haemulidae",0,"Nocturnal Carnivore"
-"68",2016-02-18,"day","S. filiforme",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"69",2016-02-18,"day","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"70",2016-02-18,"day","S. filiforme",5,"Scaridae",0,"Herbivore"
-"71",2016-02-18,"night","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"72",2016-02-18,"night","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"73",2016-02-18,"night","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"74",2016-02-18,"night","H. stipulacea",1,"Haemulidae",2,"Nocturnal Carnivore"
-"75",2016-02-18,"night","H. stipulacea",1,"Lutjanidae",5,"Nocturnal Carnivore"
-"76",2016-02-18,"night","H. stipulacea",1,"Mullidae",1,"Diurnal Carnivore"
-"77",2016-02-18,"night","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"78",2016-02-18,"night","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"79",2016-02-18,"night","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"80",2016-02-18,"night","H. stipulacea",2,"Gerridae",0,"Nocturnal Carnivore"
-"81",2016-02-18,"night","H. stipulacea",2,"Haemulidae",1,"Nocturnal Carnivore"
-"82",2016-02-18,"night","H. stipulacea",2,"Lutjanidae",1,"Nocturnal Carnivore"
-"83",2016-02-18,"night","H. stipulacea",2,"Mullidae",0,"Diurnal Carnivore"
-"84",2016-02-18,"night","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"85",2016-02-18,"night","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"86",2016-02-18,"night","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"87",2016-02-18,"night","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"88",2016-02-18,"night","H. stipulacea",3,"Haemulidae",3,"Nocturnal Carnivore"
-"89",2016-02-18,"night","H. stipulacea",3,"Lutjanidae",3,"Nocturnal Carnivore"
-"90",2016-02-18,"night","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"91",2016-02-18,"night","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"92",2016-02-18,"night","H. stipulacea",4,"Acanthuridae",0,"Herbivore"
-"93",2016-02-18,"night","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"94",2016-02-18,"night","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"95",2016-02-18,"night","H. stipulacea",4,"Haemulidae",1,"Nocturnal Carnivore"
-"96",2016-02-18,"night","H. stipulacea",4,"Lutjanidae",4,"Nocturnal Carnivore"
-"97",2016-02-18,"night","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"98",2016-02-18,"night","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"99",2016-02-18,"night","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"100",2016-02-18,"night","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"101",2016-02-18,"night","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"102",2016-02-18,"night","H. stipulacea",5,"Haemulidae",0,"Nocturnal Carnivore"
-"103",2016-02-18,"night","H. stipulacea",5,"Lutjanidae",1,"Nocturnal Carnivore"
-"104",2016-02-18,"night","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"105",2016-02-18,"night","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"106",2016-02-18,"night","S. filiforme",1,"Acanthuridae",0,"Herbivore"
-"107",2016-02-18,"night","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"108",2016-02-18,"night","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"109",2016-02-18,"night","S. filiforme",1,"Haemulidae",1,"Nocturnal Carnivore"
-"110",2016-02-18,"night","S. filiforme",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"111",2016-02-18,"night","S. filiforme",1,"Mullidae",0,"Diurnal Carnivore"
-"112",2016-02-18,"night","S. filiforme",1,"Scaridae",0,"Herbivore"
-"113",2016-02-18,"night","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"114",2016-02-18,"night","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"115",2016-02-18,"night","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"116",2016-02-18,"night","S. filiforme",2,"Haemulidae",0,"Nocturnal Carnivore"
-"117",2016-02-18,"night","S. filiforme",2,"Lutjanidae",1,"Nocturnal Carnivore"
-"118",2016-02-18,"night","S. filiforme",2,"Mullidae",0,"Diurnal Carnivore"
-"119",2016-02-18,"night","S. filiforme",2,"Scaridae",0,"Herbivore"
-"120",2016-02-18,"night","S. filiforme",3,"Acanthuridae",0,"Herbivore"
-"121",2016-02-18,"night","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"122",2016-02-18,"night","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"123",2016-02-18,"night","S. filiforme",3,"Haemulidae",3,"Nocturnal Carnivore"
-"124",2016-02-18,"night","S. filiforme",3,"Lutjanidae",2,"Nocturnal Carnivore"
-"125",2016-02-18,"night","S. filiforme",3,"Mullidae",0,"Diurnal Carnivore"
-"126",2016-02-18,"night","S. filiforme",3,"Scaridae",0,"Herbivore"
-"127",2016-02-18,"night","S. filiforme",4,"Acanthuridae",0,"Herbivore"
-"128",2016-02-18,"night","S. filiforme",4,"Carangidae",0,"Diurnal Carnivore"
-"129",2016-02-18,"night","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"130",2016-02-18,"night","S. filiforme",4,"Haemulidae",0,"Nocturnal Carnivore"
-"131",2016-02-18,"night","S. filiforme",4,"Lutjanidae",2,"Nocturnal Carnivore"
-"132",2016-02-18,"night","S. filiforme",4,"Mullidae",0,"Diurnal Carnivore"
-"133",2016-02-18,"night","S. filiforme",4,"Scaridae",0,"Herbivore"
-"134",2016-02-18,"night","S. filiforme",5,"Acanthuridae",0,"Herbivore"
-"135",2016-02-18,"night","S. filiforme",5,"Carangidae",0,"Diurnal Carnivore"
-"136",2016-02-18,"night","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"137",2016-02-18,"night","S. filiforme",5,"Haemulidae",1,"Nocturnal Carnivore"
-"138",2016-02-18,"night","S. filiforme",5,"Lutjanidae",3,"Nocturnal Carnivore"
-"139",2016-02-18,"night","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"140",2016-02-18,"night","S. filiforme",5,"Scaridae",0,"Herbivore"
-"141",2016-02-19,"day","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"142",2016-02-19,"day","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"143",2016-02-19,"day","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"144",2016-02-19,"day","H. stipulacea",1,"Haemulidae",1,"Nocturnal Carnivore"
-"145",2016-02-19,"day","H. stipulacea",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"146",2016-02-19,"day","H. stipulacea",1,"Mullidae",0,"Diurnal Carnivore"
-"147",2016-02-19,"day","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"148",2016-02-19,"day","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"149",2016-02-19,"day","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"150",2016-02-19,"day","H. stipulacea",2,"Gerridae",0,"Nocturnal Carnivore"
-"151",2016-02-19,"day","H. stipulacea",2,"Haemulidae",0,"Nocturnal Carnivore"
-"152",2016-02-19,"day","H. stipulacea",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"153",2016-02-19,"day","H. stipulacea",2,"Mullidae",1,"Diurnal Carnivore"
-"154",2016-02-19,"day","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"155",2016-02-19,"day","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"156",2016-02-19,"day","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"157",2016-02-19,"day","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"158",2016-02-19,"day","H. stipulacea",3,"Haemulidae",0,"Nocturnal Carnivore"
-"159",2016-02-19,"day","H. stipulacea",3,"Lutjanidae",0,"Nocturnal Carnivore"
-"160",2016-02-19,"day","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"161",2016-02-19,"day","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"162",2016-02-19,"day","H. stipulacea",4,"Acanthuridae",0,"Herbivore"
-"163",2016-02-19,"day","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"164",2016-02-19,"day","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"165",2016-02-19,"day","H. stipulacea",4,"Haemulidae",1,"Nocturnal Carnivore"
-"166",2016-02-19,"day","H. stipulacea",4,"Lutjanidae",2,"Nocturnal Carnivore"
-"167",2016-02-19,"day","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"168",2016-02-19,"day","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"169",2016-02-19,"day","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"170",2016-02-19,"day","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"171",2016-02-19,"day","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"172",2016-02-19,"day","H. stipulacea",5,"Haemulidae",1,"Nocturnal Carnivore"
-"173",2016-02-19,"day","H. stipulacea",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"174",2016-02-19,"day","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"175",2016-02-19,"day","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"176",2016-02-19,"day","S. filiforme",1,"Acanthuridae",0,"Herbivore"
-"177",2016-02-19,"day","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"178",2016-02-19,"day","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"179",2016-02-19,"day","S. filiforme",1,"Haemulidae",0,"Nocturnal Carnivore"
-"180",2016-02-19,"day","S. filiforme",1,"Lutjanidae",2,"Nocturnal Carnivore"
-"181",2016-02-19,"day","S. filiforme",1,"Mullidae",0,"Diurnal Carnivore"
-"182",2016-02-19,"day","S. filiforme",1,"Scaridae",0,"Herbivore"
-"183",2016-02-19,"day","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"184",2016-02-19,"day","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"185",2016-02-19,"day","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"186",2016-02-19,"day","S. filiforme",2,"Haemulidae",1,"Nocturnal Carnivore"
-"187",2016-02-19,"day","S. filiforme",2,"Lutjanidae",1,"Nocturnal Carnivore"
-"188",2016-02-19,"day","S. filiforme",2,"Mullidae",0,"Diurnal Carnivore"
-"189",2016-02-19,"day","S. filiforme",2,"Scaridae",0,"Herbivore"
-"190",2016-02-19,"day","S. filiforme",3,"Acanthuridae",0,"Herbivore"
-"191",2016-02-19,"day","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"192",2016-02-19,"day","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"193",2016-02-19,"day","S. filiforme",3,"Haemulidae",2,"Nocturnal Carnivore"
-"194",2016-02-19,"day","S. filiforme",3,"Lutjanidae",2,"Nocturnal Carnivore"
-"195",2016-02-19,"day","S. filiforme",3,"Mullidae",7,"Diurnal Carnivore"
-"196",2016-02-19,"day","S. filiforme",3,"Scaridae",0,"Herbivore"
-"197",2016-02-19,"day","S. filiforme",4,"Acanthuridae",0,"Herbivore"
-"198",2016-02-19,"day","S. filiforme",4,"Carangidae",0,"Diurnal Carnivore"
-"199",2016-02-19,"day","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"200",2016-02-19,"day","S. filiforme",4,"Haemulidae",1,"Nocturnal Carnivore"
-"201",2016-02-19,"day","S. filiforme",4,"Lutjanidae",0,"Nocturnal Carnivore"
-"202",2016-02-19,"day","S. filiforme",4,"Mullidae",0,"Diurnal Carnivore"
-"203",2016-02-19,"day","S. filiforme",4,"Scaridae",0,"Herbivore"
-"204",2016-02-19,"day","S. filiforme",5,"Acanthuridae",0,"Herbivore"
-"205",2016-02-19,"day","S. filiforme",5,"Carangidae",0,"Diurnal Carnivore"
-"206",2016-02-19,"day","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"207",2016-02-19,"day","S. filiforme",5,"Haemulidae",0,"Nocturnal Carnivore"
-"208",2016-02-19,"day","S. filiforme",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"209",2016-02-19,"day","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"210",2016-02-19,"day","S. filiforme",5,"Scaridae",0,"Herbivore"
-"211",2016-02-19,"night","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"212",2016-02-19,"night","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"213",2016-02-19,"night","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"214",2016-02-19,"night","H. stipulacea",1,"Haemulidae",1,"Nocturnal Carnivore"
-"215",2016-02-19,"night","H. stipulacea",1,"Lutjanidae",1,"Nocturnal Carnivore"
-"216",2016-02-19,"night","H. stipulacea",1,"Mullidae",0,"Diurnal Carnivore"
-"217",2016-02-19,"night","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"218",2016-02-19,"night","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"219",2016-02-19,"night","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"220",2016-02-19,"night","H. stipulacea",2,"Gerridae",0,"Nocturnal Carnivore"
-"221",2016-02-19,"night","H. stipulacea",2,"Haemulidae",3,"Nocturnal Carnivore"
-"222",2016-02-19,"night","H. stipulacea",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"223",2016-02-19,"night","H. stipulacea",2,"Mullidae",0,"Diurnal Carnivore"
-"224",2016-02-19,"night","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"225",2016-02-19,"night","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"226",2016-02-19,"night","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"227",2016-02-19,"night","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"228",2016-02-19,"night","H. stipulacea",3,"Haemulidae",3,"Nocturnal Carnivore"
-"229",2016-02-19,"night","H. stipulacea",3,"Lutjanidae",3,"Nocturnal Carnivore"
-"230",2016-02-19,"night","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"231",2016-02-19,"night","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"232",2016-02-19,"night","H. stipulacea",4,"Acanthuridae",0,"Herbivore"
-"233",2016-02-19,"night","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"234",2016-02-19,"night","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"235",2016-02-19,"night","H. stipulacea",4,"Haemulidae",5,"Nocturnal Carnivore"
-"236",2016-02-19,"night","H. stipulacea",4,"Lutjanidae",0,"Nocturnal Carnivore"
-"237",2016-02-19,"night","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"238",2016-02-19,"night","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"239",2016-02-19,"night","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"240",2016-02-19,"night","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"241",2016-02-19,"night","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"242",2016-02-19,"night","H. stipulacea",5,"Haemulidae",1,"Nocturnal Carnivore"
-"243",2016-02-19,"night","H. stipulacea",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"244",2016-02-19,"night","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"245",2016-02-19,"night","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"246",2016-02-19,"night","S. filiforme",1,"Acanthuridae",0,"Herbivore"
-"247",2016-02-19,"night","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"248",2016-02-19,"night","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"249",2016-02-19,"night","S. filiforme",1,"Haemulidae",1,"Nocturnal Carnivore"
-"250",2016-02-19,"night","S. filiforme",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"251",2016-02-19,"night","S. filiforme",1,"Mullidae",0,"Diurnal Carnivore"
-"252",2016-02-19,"night","S. filiforme",1,"Scaridae",0,"Herbivore"
-"253",2016-02-19,"night","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"254",2016-02-19,"night","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"255",2016-02-19,"night","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"256",2016-02-19,"night","S. filiforme",2,"Haemulidae",0,"Nocturnal Carnivore"
-"257",2016-02-19,"night","S. filiforme",2,"Lutjanidae",1,"Nocturnal Carnivore"
-"258",2016-02-19,"night","S. filiforme",2,"Mullidae",0,"Diurnal Carnivore"
-"259",2016-02-19,"night","S. filiforme",2,"Scaridae",0,"Herbivore"
-"260",2016-02-19,"night","S. filiforme",3,"Acanthuridae",0,"Herbivore"
-"261",2016-02-19,"night","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"262",2016-02-19,"night","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"263",2016-02-19,"night","S. filiforme",3,"Haemulidae",0,"Nocturnal Carnivore"
-"264",2016-02-19,"night","S. filiforme",3,"Lutjanidae",1,"Nocturnal Carnivore"
-"265",2016-02-19,"night","S. filiforme",3,"Mullidae",1,"Diurnal Carnivore"
-"266",2016-02-19,"night","S. filiforme",3,"Scaridae",0,"Herbivore"
-"267",2016-02-19,"night","S. filiforme",4,"Acanthuridae",0,"Herbivore"
-"268",2016-02-19,"night","S. filiforme",4,"Carangidae",0,"Diurnal Carnivore"
-"269",2016-02-19,"night","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"270",2016-02-19,"night","S. filiforme",4,"Haemulidae",0,"Nocturnal Carnivore"
-"271",2016-02-19,"night","S. filiforme",4,"Lutjanidae",1,"Nocturnal Carnivore"
-"272",2016-02-19,"night","S. filiforme",4,"Mullidae",1,"Diurnal Carnivore"
-"273",2016-02-19,"night","S. filiforme",4,"Scaridae",0,"Herbivore"
-"274",2016-02-19,"night","S. filiforme",5,"Acanthuridae",2,"Herbivore"
-"275",2016-02-19,"night","S. filiforme",5,"Carangidae",0,"Diurnal Carnivore"
-"276",2016-02-19,"night","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"277",2016-02-19,"night","S. filiforme",5,"Haemulidae",8,"Nocturnal Carnivore"
-"278",2016-02-19,"night","S. filiforme",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"279",2016-02-19,"night","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"280",2016-02-19,"night","S. filiforme",5,"Scaridae",0,"Herbivore"
-"281",2016-02-20,"day","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"282",2016-02-20,"day","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"283",2016-02-20,"day","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"284",2016-02-20,"day","H. stipulacea",1,"Haemulidae",0,"Nocturnal Carnivore"
-"285",2016-02-20,"day","H. stipulacea",1,"Lutjanidae",1,"Nocturnal Carnivore"
-"286",2016-02-20,"day","H. stipulacea",1,"Mullidae",0,"Diurnal Carnivore"
-"287",2016-02-20,"day","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"288",2016-02-20,"day","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"289",2016-02-20,"day","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"290",2016-02-20,"day","H. stipulacea",2,"Gerridae",1,"Nocturnal Carnivore"
-"291",2016-02-20,"day","H. stipulacea",2,"Haemulidae",0,"Nocturnal Carnivore"
-"292",2016-02-20,"day","H. stipulacea",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"293",2016-02-20,"day","H. stipulacea",2,"Mullidae",0,"Diurnal Carnivore"
-"294",2016-02-20,"day","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"295",2016-02-20,"day","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"296",2016-02-20,"day","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"297",2016-02-20,"day","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"298",2016-02-20,"day","H. stipulacea",3,"Haemulidae",0,"Nocturnal Carnivore"
-"299",2016-02-20,"day","H. stipulacea",3,"Lutjanidae",0,"Nocturnal Carnivore"
-"300",2016-02-20,"day","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"301",2016-02-20,"day","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"302",2016-02-20,"day","H. stipulacea",4,"Acanthuridae",1,"Herbivore"
-"303",2016-02-20,"day","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"304",2016-02-20,"day","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"305",2016-02-20,"day","H. stipulacea",4,"Haemulidae",1,"Nocturnal Carnivore"
-"306",2016-02-20,"day","H. stipulacea",4,"Lutjanidae",2,"Nocturnal Carnivore"
-"307",2016-02-20,"day","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"308",2016-02-20,"day","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"309",2016-02-20,"day","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"310",2016-02-20,"day","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"311",2016-02-20,"day","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"312",2016-02-20,"day","H. stipulacea",5,"Haemulidae",4,"Nocturnal Carnivore"
-"313",2016-02-20,"day","H. stipulacea",5,"Lutjanidae",1,"Nocturnal Carnivore"
-"314",2016-02-20,"day","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"315",2016-02-20,"day","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"316",2016-02-20,"day","S. filiforme",1,"Acanthuridae",0,"Herbivore"
-"317",2016-02-20,"day","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"318",2016-02-20,"day","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"319",2016-02-20,"day","S. filiforme",1,"Haemulidae",1,"Nocturnal Carnivore"
-"320",2016-02-20,"day","S. filiforme",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"321",2016-02-20,"day","S. filiforme",1,"Mullidae",0,"Diurnal Carnivore"
-"322",2016-02-20,"day","S. filiforme",1,"Scaridae",1,"Herbivore"
-"323",2016-02-20,"day","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"324",2016-02-20,"day","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"325",2016-02-20,"day","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"326",2016-02-20,"day","S. filiforme",2,"Haemulidae",1,"Nocturnal Carnivore"
-"327",2016-02-20,"day","S. filiforme",2,"Lutjanidae",1,"Nocturnal Carnivore"
-"328",2016-02-20,"day","S. filiforme",2,"Mullidae",2,"Diurnal Carnivore"
-"329",2016-02-20,"day","S. filiforme",2,"Scaridae",1,"Herbivore"
-"330",2016-02-20,"day","S. filiforme",3,"Acanthuridae",0,"Herbivore"
-"331",2016-02-20,"day","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"332",2016-02-20,"day","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"333",2016-02-20,"day","S. filiforme",3,"Haemulidae",0,"Nocturnal Carnivore"
-"334",2016-02-20,"day","S. filiforme",3,"Lutjanidae",0,"Nocturnal Carnivore"
-"335",2016-02-20,"day","S. filiforme",3,"Mullidae",1,"Diurnal Carnivore"
-"336",2016-02-20,"day","S. filiforme",3,"Scaridae",0,"Herbivore"
-"337",2016-02-20,"day","S. filiforme",4,"Acanthuridae",1,"Herbivore"
-"338",2016-02-20,"day","S. filiforme",4,"Carangidae",0,"Diurnal Carnivore"
-"339",2016-02-20,"day","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"340",2016-02-20,"day","S. filiforme",4,"Haemulidae",0,"Nocturnal Carnivore"
-"341",2016-02-20,"day","S. filiforme",4,"Lutjanidae",1,"Nocturnal Carnivore"
-"342",2016-02-20,"day","S. filiforme",4,"Mullidae",8,"Diurnal Carnivore"
-"343",2016-02-20,"day","S. filiforme",4,"Scaridae",4,"Herbivore"
-"344",2016-02-20,"day","S. filiforme",5,"Acanthuridae",0,"Herbivore"
-"345",2016-02-20,"day","S. filiforme",5,"Carangidae",1,"Diurnal Carnivore"
-"346",2016-02-20,"day","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"347",2016-02-20,"day","S. filiforme",5,"Haemulidae",0,"Nocturnal Carnivore"
-"348",2016-02-20,"day","S. filiforme",5,"Lutjanidae",1,"Nocturnal Carnivore"
-"349",2016-02-20,"day","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"350",2016-02-20,"day","S. filiforme",5,"Scaridae",0,"Herbivore"
-"351",2016-02-20,"night","H. stipulacea",1,"Acanthuridae",0,"Herbivore"
-"352",2016-02-20,"night","H. stipulacea",1,"Carangidae",0,"Diurnal Carnivore"
-"353",2016-02-20,"night","H. stipulacea",1,"Gerridae",0,"Nocturnal Carnivore"
-"354",2016-02-20,"night","H. stipulacea",1,"Haemulidae",0,"Nocturnal Carnivore"
-"355",2016-02-20,"night","H. stipulacea",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"356",2016-02-20,"night","H. stipulacea",1,"Mullidae",0,"Diurnal Carnivore"
-"357",2016-02-20,"night","H. stipulacea",1,"Scaridae",0,"Herbivore"
-"358",2016-02-20,"night","H. stipulacea",2,"Acanthuridae",0,"Herbivore"
-"359",2016-02-20,"night","H. stipulacea",2,"Carangidae",0,"Diurnal Carnivore"
-"360",2016-02-20,"night","H. stipulacea",2,"Gerridae",0,"Nocturnal Carnivore"
-"361",2016-02-20,"night","H. stipulacea",2,"Haemulidae",1,"Nocturnal Carnivore"
-"362",2016-02-20,"night","H. stipulacea",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"363",2016-02-20,"night","H. stipulacea",2,"Mullidae",0,"Diurnal Carnivore"
-"364",2016-02-20,"night","H. stipulacea",2,"Scaridae",0,"Herbivore"
-"365",2016-02-20,"night","H. stipulacea",3,"Acanthuridae",0,"Herbivore"
-"366",2016-02-20,"night","H. stipulacea",3,"Carangidae",0,"Diurnal Carnivore"
-"367",2016-02-20,"night","H. stipulacea",3,"Gerridae",0,"Nocturnal Carnivore"
-"368",2016-02-20,"night","H. stipulacea",3,"Haemulidae",1,"Nocturnal Carnivore"
-"369",2016-02-20,"night","H. stipulacea",3,"Lutjanidae",1,"Nocturnal Carnivore"
-"370",2016-02-20,"night","H. stipulacea",3,"Mullidae",0,"Diurnal Carnivore"
-"371",2016-02-20,"night","H. stipulacea",3,"Scaridae",0,"Herbivore"
-"372",2016-02-20,"night","H. stipulacea",4,"Acanthuridae",0,"Herbivore"
-"373",2016-02-20,"night","H. stipulacea",4,"Carangidae",0,"Diurnal Carnivore"
-"374",2016-02-20,"night","H. stipulacea",4,"Gerridae",0,"Nocturnal Carnivore"
-"375",2016-02-20,"night","H. stipulacea",4,"Haemulidae",6,"Nocturnal Carnivore"
-"376",2016-02-20,"night","H. stipulacea",4,"Lutjanidae",0,"Nocturnal Carnivore"
-"377",2016-02-20,"night","H. stipulacea",4,"Mullidae",0,"Diurnal Carnivore"
-"378",2016-02-20,"night","H. stipulacea",4,"Scaridae",0,"Herbivore"
-"379",2016-02-20,"night","H. stipulacea",5,"Acanthuridae",0,"Herbivore"
-"380",2016-02-20,"night","H. stipulacea",5,"Carangidae",0,"Diurnal Carnivore"
-"381",2016-02-20,"night","H. stipulacea",5,"Gerridae",0,"Nocturnal Carnivore"
-"382",2016-02-20,"night","H. stipulacea",5,"Haemulidae",1,"Nocturnal Carnivore"
-"383",2016-02-20,"night","H. stipulacea",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"384",2016-02-20,"night","H. stipulacea",5,"Mullidae",0,"Diurnal Carnivore"
-"385",2016-02-20,"night","H. stipulacea",5,"Scaridae",0,"Herbivore"
-"386",2016-02-20,"night","S. filiforme",1,"Acanthuridae",0,"Herbivore"
-"387",2016-02-20,"night","S. filiforme",1,"Carangidae",0,"Diurnal Carnivore"
-"388",2016-02-20,"night","S. filiforme",1,"Gerridae",0,"Nocturnal Carnivore"
-"389",2016-02-20,"night","S. filiforme",1,"Haemulidae",0,"Nocturnal Carnivore"
-"390",2016-02-20,"night","S. filiforme",1,"Lutjanidae",0,"Nocturnal Carnivore"
-"391",2016-02-20,"night","S. filiforme",1,"Mullidae",0,"Diurnal Carnivore"
-"392",2016-02-20,"night","S. filiforme",1,"Scaridae",0,"Herbivore"
-"393",2016-02-20,"night","S. filiforme",2,"Acanthuridae",0,"Herbivore"
-"394",2016-02-20,"night","S. filiforme",2,"Carangidae",0,"Diurnal Carnivore"
-"395",2016-02-20,"night","S. filiforme",2,"Gerridae",0,"Nocturnal Carnivore"
-"396",2016-02-20,"night","S. filiforme",2,"Haemulidae",1,"Nocturnal Carnivore"
-"397",2016-02-20,"night","S. filiforme",2,"Lutjanidae",0,"Nocturnal Carnivore"
-"398",2016-02-20,"night","S. filiforme",2,"Mullidae",0,"Diurnal Carnivore"
-"399",2016-02-20,"night","S. filiforme",2,"Scaridae",0,"Herbivore"
-"400",2016-02-20,"night","S. filiforme",3,"Acanthuridae",1,"Herbivore"
-"401",2016-02-20,"night","S. filiforme",3,"Carangidae",0,"Diurnal Carnivore"
-"402",2016-02-20,"night","S. filiforme",3,"Gerridae",0,"Nocturnal Carnivore"
-"403",2016-02-20,"night","S. filiforme",3,"Haemulidae",2,"Nocturnal Carnivore"
-"404",2016-02-20,"night","S. filiforme",3,"Lutjanidae",2,"Nocturnal Carnivore"
-"405",2016-02-20,"night","S. filiforme",3,"Mullidae",0,"Diurnal Carnivore"
-"406",2016-02-20,"night","S. filiforme",3,"Scaridae",0,"Herbivore"
-"407",2016-02-20,"night","S. filiforme",4,"Acanthuridae",0,"Herbivore"
-"408",2016-02-20,"night","S. filiforme",4,"Carangidae",1,"Diurnal Carnivore"
-"409",2016-02-20,"night","S. filiforme",4,"Gerridae",0,"Nocturnal Carnivore"
-"410",2016-02-20,"night","S. filiforme",4,"Haemulidae",6,"Nocturnal Carnivore"
-"411",2016-02-20,"night","S. filiforme",4,"Lutjanidae",0,"Nocturnal Carnivore"
-"412",2016-02-20,"night","S. filiforme",4,"Mullidae",0,"Diurnal Carnivore"
-"413",2016-02-20,"night","S. filiforme",4,"Scaridae",0,"Herbivore"
-"414",2016-02-20,"night","S. filiforme",5,"Acanthuridae",7,"Herbivore"
-"415",2016-02-20,"night","S. filiforme",5,"Carangidae",0,"Diurnal Carnivore"
-"416",2016-02-20,"night","S. filiforme",5,"Gerridae",0,"Nocturnal Carnivore"
-"417",2016-02-20,"night","S. filiforme",5,"Haemulidae",0,"Nocturnal Carnivore"
-"418",2016-02-20,"night","S. filiforme",5,"Lutjanidae",0,"Nocturnal Carnivore"
-"419",2016-02-20,"night","S. filiforme",5,"Mullidae",0,"Diurnal Carnivore"
-"420",2016-02-20,"night","S. filiforme",5,"Scaridae",0,"Herbivore"
+Date,Soak.Type,Seagrass,Txid,Family,JuvFish,Guild
+2/18/16,day,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/18/16,day,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,1,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,1,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,1,Mullidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,1,Scaridae,0,Herbivore
+2/18/16,day,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/18/16,day,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,2,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,2,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,2,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,2,Mullidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,2,Scaridae,0,Herbivore
+2/18/16,day,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/18/16,day,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,3,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,3,Lutjanidae,2,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,3,Scaridae,0,Herbivore
+2/18/16,day,H. stipulacea,4,Acanthuridae,0,Herbivore
+2/18/16,day,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,4,Haemulidae,3,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,4,Lutjanidae,1,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,4,Scaridae,0,Herbivore
+2/18/16,day,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/18/16,day,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,5,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,5,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/18/16,day,H. stipulacea,5,Scaridae,0,Herbivore
+2/18/16,day,S. filiforme,1,Acanthuridae,2,Herbivore
+2/18/16,day,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,1,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,1,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,1,Mullidae,4,Diurnal Carnivore
+2/18/16,day,S. filiforme,1,Scaridae,0,Herbivore
+2/18/16,day,S. filiforme,2,Acanthuridae,0,Herbivore
+2/18/16,day,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,2,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,2,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,2,Mullidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,2,Scaridae,0,Herbivore
+2/18/16,day,S. filiforme,3,Acanthuridae,0,Herbivore
+2/18/16,day,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,3,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,3,Lutjanidae,2,Nocturnal Carnivore
+2/18/16,day,S. filiforme,3,Mullidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,3,Scaridae,0,Herbivore
+2/18/16,day,S. filiforme,4,Acanthuridae,0,Herbivore
+2/18/16,day,S. filiforme,4,Carangidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,4,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,4,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,4,Mullidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,4,Scaridae,0,Herbivore
+2/18/16,day,S. filiforme,5,Acanthuridae,0,Herbivore
+2/18/16,day,S. filiforme,5,Carangidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,5,Haemulidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,5,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,day,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/18/16,day,S. filiforme,5,Scaridae,0,Herbivore
+2/18/16,night,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/18/16,night,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,1,Haemulidae,2,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,1,Lutjanidae,5,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,1,Mullidae,1,Diurnal Carnivore
+2/18/16,night,H. stipulacea,1,Scaridae,0,Herbivore
+2/18/16,night,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/18/16,night,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,2,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,2,Haemulidae,1,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,2,Lutjanidae,1,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,2,Mullidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,2,Scaridae,0,Herbivore
+2/18/16,night,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/18/16,night,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,3,Haemulidae,3,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,3,Lutjanidae,3,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,3,Scaridae,0,Herbivore
+2/18/16,night,H. stipulacea,4,Acanthuridae,0,Herbivore
+2/18/16,night,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,4,Haemulidae,1,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,4,Lutjanidae,4,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,4,Scaridae,0,Herbivore
+2/18/16,night,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/18/16,night,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,5,Haemulidae,0,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,5,Lutjanidae,1,Nocturnal Carnivore
+2/18/16,night,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/18/16,night,H. stipulacea,5,Scaridae,0,Herbivore
+2/18/16,night,S. filiforme,1,Acanthuridae,0,Herbivore
+2/18/16,night,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,1,Haemulidae,1,Nocturnal Carnivore
+2/18/16,night,S. filiforme,1,Lutjanidae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,1,Mullidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,1,Scaridae,0,Herbivore
+2/18/16,night,S. filiforme,2,Acanthuridae,0,Herbivore
+2/18/16,night,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,2,Haemulidae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,2,Lutjanidae,1,Nocturnal Carnivore
+2/18/16,night,S. filiforme,2,Mullidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,2,Scaridae,0,Herbivore
+2/18/16,night,S. filiforme,3,Acanthuridae,0,Herbivore
+2/18/16,night,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,3,Haemulidae,3,Nocturnal Carnivore
+2/18/16,night,S. filiforme,3,Lutjanidae,2,Nocturnal Carnivore
+2/18/16,night,S. filiforme,3,Mullidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,3,Scaridae,0,Herbivore
+2/18/16,night,S. filiforme,4,Acanthuridae,0,Herbivore
+2/18/16,night,S. filiforme,4,Carangidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,4,Haemulidae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,4,Lutjanidae,2,Nocturnal Carnivore
+2/18/16,night,S. filiforme,4,Mullidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,4,Scaridae,0,Herbivore
+2/18/16,night,S. filiforme,5,Acanthuridae,0,Herbivore
+2/18/16,night,S. filiforme,5,Carangidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/18/16,night,S. filiforme,5,Haemulidae,1,Nocturnal Carnivore
+2/18/16,night,S. filiforme,5,Lutjanidae,3,Nocturnal Carnivore
+2/18/16,night,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/18/16,night,S. filiforme,5,Scaridae,0,Herbivore
+2/19/16,day,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/19/16,day,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,1,Haemulidae,1,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,1,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,1,Mullidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,1,Scaridae,0,Herbivore
+2/19/16,day,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/19/16,day,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,2,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,2,Haemulidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,2,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,2,Mullidae,1,Diurnal Carnivore
+2/19/16,day,H. stipulacea,2,Scaridae,0,Herbivore
+2/19/16,day,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/19/16,day,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,3,Haemulidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,3,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,3,Scaridae,0,Herbivore
+2/19/16,day,H. stipulacea,4,Acanthuridae,0,Herbivore
+2/19/16,day,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,4,Haemulidae,1,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,4,Lutjanidae,2,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,4,Scaridae,0,Herbivore
+2/19/16,day,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/19/16,day,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,5,Haemulidae,1,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,5,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/19/16,day,H. stipulacea,5,Scaridae,0,Herbivore
+2/19/16,day,S. filiforme,1,Acanthuridae,0,Herbivore
+2/19/16,day,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,1,Haemulidae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,1,Lutjanidae,2,Nocturnal Carnivore
+2/19/16,day,S. filiforme,1,Mullidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,1,Scaridae,0,Herbivore
+2/19/16,day,S. filiforme,2,Acanthuridae,0,Herbivore
+2/19/16,day,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,2,Haemulidae,1,Nocturnal Carnivore
+2/19/16,day,S. filiforme,2,Lutjanidae,1,Nocturnal Carnivore
+2/19/16,day,S. filiforme,2,Mullidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,2,Scaridae,0,Herbivore
+2/19/16,day,S. filiforme,3,Acanthuridae,0,Herbivore
+2/19/16,day,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,3,Haemulidae,2,Nocturnal Carnivore
+2/19/16,day,S. filiforme,3,Lutjanidae,2,Nocturnal Carnivore
+2/19/16,day,S. filiforme,3,Mullidae,7,Diurnal Carnivore
+2/19/16,day,S. filiforme,3,Scaridae,0,Herbivore
+2/19/16,day,S. filiforme,4,Acanthuridae,0,Herbivore
+2/19/16,day,S. filiforme,4,Carangidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,4,Haemulidae,1,Nocturnal Carnivore
+2/19/16,day,S. filiforme,4,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,4,Mullidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,4,Scaridae,0,Herbivore
+2/19/16,day,S. filiforme,5,Acanthuridae,0,Herbivore
+2/19/16,day,S. filiforme,5,Carangidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,5,Haemulidae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,5,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,day,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/19/16,day,S. filiforme,5,Scaridae,0,Herbivore
+2/19/16,night,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/19/16,night,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,1,Haemulidae,1,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,1,Lutjanidae,1,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,1,Mullidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,1,Scaridae,0,Herbivore
+2/19/16,night,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/19/16,night,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,2,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,2,Haemulidae,3,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,2,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,2,Mullidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,2,Scaridae,0,Herbivore
+2/19/16,night,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/19/16,night,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,3,Haemulidae,3,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,3,Lutjanidae,3,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,3,Scaridae,0,Herbivore
+2/19/16,night,H. stipulacea,4,Acanthuridae,0,Herbivore
+2/19/16,night,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,4,Haemulidae,5,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,4,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,4,Scaridae,0,Herbivore
+2/19/16,night,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/19/16,night,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,5,Haemulidae,1,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,5,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,night,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/19/16,night,H. stipulacea,5,Scaridae,0,Herbivore
+2/19/16,night,S. filiforme,1,Acanthuridae,0,Herbivore
+2/19/16,night,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,1,Haemulidae,1,Nocturnal Carnivore
+2/19/16,night,S. filiforme,1,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,1,Mullidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,1,Scaridae,0,Herbivore
+2/19/16,night,S. filiforme,2,Acanthuridae,0,Herbivore
+2/19/16,night,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,2,Haemulidae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,2,Lutjanidae,1,Nocturnal Carnivore
+2/19/16,night,S. filiforme,2,Mullidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,2,Scaridae,0,Herbivore
+2/19/16,night,S. filiforme,3,Acanthuridae,0,Herbivore
+2/19/16,night,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,3,Haemulidae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,3,Lutjanidae,1,Nocturnal Carnivore
+2/19/16,night,S. filiforme,3,Mullidae,1,Diurnal Carnivore
+2/19/16,night,S. filiforme,3,Scaridae,0,Herbivore
+2/19/16,night,S. filiforme,4,Acanthuridae,0,Herbivore
+2/19/16,night,S. filiforme,4,Carangidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,4,Haemulidae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,4,Lutjanidae,1,Nocturnal Carnivore
+2/19/16,night,S. filiforme,4,Mullidae,1,Diurnal Carnivore
+2/19/16,night,S. filiforme,4,Scaridae,0,Herbivore
+2/19/16,night,S. filiforme,5,Acanthuridae,2,Herbivore
+2/19/16,night,S. filiforme,5,Carangidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,5,Haemulidae,8,Nocturnal Carnivore
+2/19/16,night,S. filiforme,5,Lutjanidae,0,Nocturnal Carnivore
+2/19/16,night,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/19/16,night,S. filiforme,5,Scaridae,0,Herbivore
+2/20/16,day,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/20/16,day,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,1,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,1,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,1,Mullidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,1,Scaridae,0,Herbivore
+2/20/16,day,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/20/16,day,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,2,Gerridae,1,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,2,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,2,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,2,Mullidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,2,Scaridae,0,Herbivore
+2/20/16,day,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/20/16,day,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,3,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,3,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,3,Scaridae,0,Herbivore
+2/20/16,day,H. stipulacea,4,Acanthuridae,1,Herbivore
+2/20/16,day,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,4,Haemulidae,1,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,4,Lutjanidae,2,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,4,Scaridae,0,Herbivore
+2/20/16,day,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/20/16,day,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,5,Haemulidae,4,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,5,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,day,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/20/16,day,H. stipulacea,5,Scaridae,0,Herbivore
+2/20/16,day,S. filiforme,1,Acanthuridae,0,Herbivore
+2/20/16,day,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,1,Haemulidae,1,Nocturnal Carnivore
+2/20/16,day,S. filiforme,1,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,1,Mullidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,1,Scaridae,1,Herbivore
+2/20/16,day,S. filiforme,2,Acanthuridae,0,Herbivore
+2/20/16,day,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,2,Haemulidae,1,Nocturnal Carnivore
+2/20/16,day,S. filiforme,2,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,day,S. filiforme,2,Mullidae,2,Diurnal Carnivore
+2/20/16,day,S. filiforme,2,Scaridae,1,Herbivore
+2/20/16,day,S. filiforme,3,Acanthuridae,0,Herbivore
+2/20/16,day,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,3,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,3,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,3,Mullidae,1,Diurnal Carnivore
+2/20/16,day,S. filiforme,3,Scaridae,0,Herbivore
+2/20/16,day,S. filiforme,4,Acanthuridae,1,Herbivore
+2/20/16,day,S. filiforme,4,Carangidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,4,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,4,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,day,S. filiforme,4,Mullidae,8,Diurnal Carnivore
+2/20/16,day,S. filiforme,4,Scaridae,4,Herbivore
+2/20/16,day,S. filiforme,5,Acanthuridae,0,Herbivore
+2/20/16,day,S. filiforme,5,Carangidae,1,Diurnal Carnivore
+2/20/16,day,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,5,Haemulidae,0,Nocturnal Carnivore
+2/20/16,day,S. filiforme,5,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,day,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/20/16,day,S. filiforme,5,Scaridae,0,Herbivore
+2/20/16,night,H. stipulacea,1,Acanthuridae,0,Herbivore
+2/20/16,night,H. stipulacea,1,Carangidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,1,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,1,Haemulidae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,1,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,1,Mullidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,1,Scaridae,0,Herbivore
+2/20/16,night,H. stipulacea,2,Acanthuridae,0,Herbivore
+2/20/16,night,H. stipulacea,2,Carangidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,2,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,2,Haemulidae,1,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,2,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,2,Mullidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,2,Scaridae,0,Herbivore
+2/20/16,night,H. stipulacea,3,Acanthuridae,0,Herbivore
+2/20/16,night,H. stipulacea,3,Carangidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,3,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,3,Haemulidae,1,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,3,Lutjanidae,1,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,3,Mullidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,3,Scaridae,0,Herbivore
+2/20/16,night,H. stipulacea,4,Acanthuridae,0,Herbivore
+2/20/16,night,H. stipulacea,4,Carangidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,4,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,4,Haemulidae,6,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,4,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,4,Mullidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,4,Scaridae,0,Herbivore
+2/20/16,night,H. stipulacea,5,Acanthuridae,0,Herbivore
+2/20/16,night,H. stipulacea,5,Carangidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,5,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,5,Haemulidae,1,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,5,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,H. stipulacea,5,Mullidae,0,Diurnal Carnivore
+2/20/16,night,H. stipulacea,5,Scaridae,0,Herbivore
+2/20/16,night,S. filiforme,1,Acanthuridae,0,Herbivore
+2/20/16,night,S. filiforme,1,Carangidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,1,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,1,Haemulidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,1,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,1,Mullidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,1,Scaridae,0,Herbivore
+2/20/16,night,S. filiforme,2,Acanthuridae,0,Herbivore
+2/20/16,night,S. filiforme,2,Carangidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,2,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,2,Haemulidae,1,Nocturnal Carnivore
+2/20/16,night,S. filiforme,2,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,2,Mullidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,2,Scaridae,0,Herbivore
+2/20/16,night,S. filiforme,3,Acanthuridae,1,Herbivore
+2/20/16,night,S. filiforme,3,Carangidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,3,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,3,Haemulidae,2,Nocturnal Carnivore
+2/20/16,night,S. filiforme,3,Lutjanidae,2,Nocturnal Carnivore
+2/20/16,night,S. filiforme,3,Mullidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,3,Scaridae,0,Herbivore
+2/20/16,night,S. filiforme,4,Acanthuridae,0,Herbivore
+2/20/16,night,S. filiforme,4,Carangidae,1,Diurnal Carnivore
+2/20/16,night,S. filiforme,4,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,4,Haemulidae,6,Nocturnal Carnivore
+2/20/16,night,S. filiforme,4,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,4,Mullidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,4,Scaridae,0,Herbivore
+2/20/16,night,S. filiforme,5,Acanthuridae,7,Herbivore
+2/20/16,night,S. filiforme,5,Carangidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,5,Gerridae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,5,Haemulidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,5,Lutjanidae,0,Nocturnal Carnivore
+2/20/16,night,S. filiforme,5,Mullidae,0,Diurnal Carnivore
+2/20/16,night,S. filiforme,5,Scaridae,0,Herbivore
